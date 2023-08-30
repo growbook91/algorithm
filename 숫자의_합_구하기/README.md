@@ -1,4 +1,4 @@
-# [Bronze IV] 직사각형에서 탈출 - 1085
+# [Bronze IV] 숫자의 합 구하기 - 11720
 
 [문제 링크](https://www.acmicpc.net/problem/11720)
 
